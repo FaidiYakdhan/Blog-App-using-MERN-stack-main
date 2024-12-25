@@ -2,6 +2,9 @@
 
 Welcome to the Blog App repository! This application is built using the MERN (MongoDB, Express, React, Node.js) stack and comes with various functionalities to manage and share your blogs.
 
+## Contact
+If you have any questions or want to collaborate, feel free to [email me](mailto:fyacdhan@gmail.com)!
+
 ## Functionalities
 
 - **Authentication:** Secure user authentication system to protect your blogs.
